@@ -135,3 +135,12 @@ body {
 
 
 
+.carousel .item img {
+  max-height: 400px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+
+
